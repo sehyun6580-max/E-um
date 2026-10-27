@@ -1,4 +1,4 @@
-  import html
+import html
 import os
 from pathlib import Path
 
